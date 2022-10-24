@@ -45,8 +45,6 @@ nav ul {
 display: flex;
 justify-content: center;
 gap: 30px;
-background-color: #50A883;
-display: inline-block;
 list-style: none;
 padding-left: 0;
 border: 3px solid #B2FC94;
